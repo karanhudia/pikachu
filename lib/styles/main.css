@@ -2,3 +2,18 @@
   margin: 0; 
   padding: 0;
 }
+.container-fluid {
+  padding-left: 0px !important;
+  padding-right: 0px !important;
+}
+.navbar {
+  border-radius: 0px !important;
+  min-height: 70px !important;
+}
+body {
+  background-image: url("../../resources/images/background-cover.jpg");
+  background-size: cover;
+}
+.navbar-brand > img {
+  max-height: 56px;
+}
